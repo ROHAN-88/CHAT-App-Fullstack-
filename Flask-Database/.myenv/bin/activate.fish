@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/rohan/Documents/Chat-App/Flask-Database/.myenv
+set -gx VIRTUAL_ENV /home/rohan/Documents/CHAT-App-Fullstack-/Flask-Database/.myenv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
