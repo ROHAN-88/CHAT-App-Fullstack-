@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Mail
+Flask-Session
+Flask-Cors
+Flask-Migrate
+Flask-JWT-Extended
